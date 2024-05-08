@@ -1,0 +1,24 @@
+{
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "number-precision": "^1.6.0"
+  },
+  "name": "@kn440/task2",
+  "version": "1.0.0",
+  "description": "HW2",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kn440/js6-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kn440/js6-2/issues"
+  },
+  "homepage": "https://github.com/kn440/js6-2#readme"
+}
